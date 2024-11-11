@@ -1,6 +1,6 @@
 👋 Hi, I’m @cyberdwarf23 I’m currently learning Haskell.
 
-How to reach me: Just send me a message here or a mail to cyberdwarf23@pronton.me
+If you want, just send me a message here or a mail to cyberdwarf23@pronton.me
 
 <!---
 cyberdwarf23/cyberdwarf23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
